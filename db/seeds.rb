@@ -1,6 +1,48 @@
 @prototypes_data = [
   {
     name: 'First module / First prototype'
+  },
+  {
+    name: 'First oscillator'
+  },
+  {
+    name: 'Homework'
+  },
+  {
+    name: 'Oscillator with React components'
+  },
+  {
+    name: 'Tone.js basics'
+  },
+  {
+    name: 'Experiment_1'
+  },
+  {
+    name: 'Experiment_2'
+  },
+  {
+    name: 'Tone.js with UI'
+  },
+  {
+    name: 'Tone.js with UI, better change function'
+  },
+  {
+    name: 'Experiment_3'
+  },
+  {
+    name: 'Tone.js with UI, Composition'
+  },
+  {
+    name: 'Tone.js with UI, Composition_2'
+  },
+  {
+    name: 'Tone.js with UI, Sampler'
+  },
+  {
+    name: 'My Synth'
+  },
+  {
+    name: 'Aid Synth'
   }
 ]
 
